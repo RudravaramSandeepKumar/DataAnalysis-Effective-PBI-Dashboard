@@ -27,6 +27,7 @@ The global superstore data used to create an interactive visuals using those fea
 
 - Dashboard Interaction
   <a href = "https://github.com/RudravaramSandeepKumar/DataAnalysis-Effective-PBI-Dashboard/blob/main/Power%20BI%20Dashboard%202%20.png">View Dasboard-1</a>
+  
   <a href = "https://github.com/RudravaramSandeepKumar/DataAnalysis-Effective-PBI-Dashboard/blob/main/Power%20BI%20Dashboard%202-1.png">View Dasboard-2</a>
 
 ## Process
@@ -38,6 +39,7 @@ The global superstore data used to create an interactive visuals using those fea
 ## DashBoard
 
    ![Power BI Dashboard 2 ](https://github.com/user-attachments/assets/0dd2643c-4c6c-4f74-a870-b730c10c08e6)
+   
    ![Power BI Dashboard 2-1](https://github.com/user-attachments/assets/7376e304-1add-4470-b459-409433a278a4)
 
 
