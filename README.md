@@ -41,6 +41,31 @@ The global superstore data used to create an interactive visuals using those fea
    
    ![Power BI Dashboard 2-1](https://github.com/user-attachments/assets/7376e304-1add-4470-b459-409433a278a4)
 
+## KeyFact Observations From the Dashboard
+
+- The region central sales, profits and quantity is details we can see from the dash board using pie chat slice visual.
+- It interacted with the other visuals for the same data for Central Region.
+
+  ![central Region data snapshot](https://github.com/user-attachments/assets/a3019e30-5368-4e0e-a225-5087d691d850)
+
+- In the below visual we can see the sales Data of only December month for Consumer Category
+- Using the Line Stacked chart of 1st Visual all the sales and profits interacts with all other visuals.
+
+  ![December month sales](https://github.com/user-attachments/assets/787e773a-42b7-4ffc-b8a6-62f4c816678c)
+
+- In this visual I have used Sync Slicer to slice all the pages of the data.
+- You can see the visual dashboard only sliced for from Jan-01-2012 to December-31-2013 It filtered only these 2 years of data.
+- In the report dashboard to present data effectively. In the second pic you can see the tables and visuals the calculations are different because 
+  only 2 data years data is sliced.
+
+  ![Sync Slicers 1](https://github.com/user-attachments/assets/dea7484a-cb90-4857-8968-3765f79340fa)
+
+  ![Sync Slicers 2](https://github.com/user-attachments/assets/e7ef56a3-52b5-4754-9761-aebb8728e0ec)
+
+
+
+
+
 
 ## Project insights based on the dashboard:
 1. Central Region Leads: Central region dominates in both sales and profit.
