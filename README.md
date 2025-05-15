@@ -50,13 +50,13 @@ The global superstore data used to create an interactive visuals using those fea
   
 
 - In the below visual we can see the sales Data of only **DECEMBER** month for **CONSUMER** Category
-- Using the **Line Stacked chart** of 1st Visual all the sales and profits interacts with all other visuals. Refer below
+- Using the **LINE STACKED CHART** of 1st Visual all the sales and profits interacts with all other visuals. Refer below
 
   ![December month sales](https://github.com/user-attachments/assets/787e773a-42b7-4ffc-b8a6-62f4c816678c)
   
 
-- In this visual I have used **Sync Slicer** to slice all the pages of the data.
-- You can see the visual dashboard only sliced for from **Jan-01-2012 to December-31-2013** It filtered only these 2 years of data.
+- In this visual I have used **SYNC SLICER** to slice all the pages of the data.
+- You can see the visual dashboard only sliced for from **JAN-01-2012 to DEC-31-2013** It filtered only these 2 years of data.
 - In the report dashboard to present data effectively. In the second pic you can see the tables and visuals the calculations are different because 
   only 2 data years data is sliced. Refer the below Visuals figures.
 
