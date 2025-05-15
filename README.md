@@ -43,20 +43,20 @@ The global superstore data used to create an interactive visuals using those fea
 
 ## KeyFact Observations From the Dashboard
 
-- The region central sales, profits and quantity is details we can see from the dash board using pie chat slice visual.
+- The region central sales, profits and quantity is details we can see from the dash board using **PIE CHART** slice visual.
 - It interacted with the other visuals for the same data for Central Region. Refer the below fig.
 
   ![central Region data snapshot](https://github.com/user-attachments/assets/a3019e30-5368-4e0e-a225-5087d691d850)
   
 
-- In the below visual we can see the sales Data of only December month for Consumer Category
-- Using the Line Stacked chart of 1st Visual all the sales and profits interacts with all other visuals. Refer below
+- In the below visual we can see the sales Data of only **DECEMBER** month for **CONSUMER** Category
+- Using the **Line Stacked chart** of 1st Visual all the sales and profits interacts with all other visuals. Refer below
 
   ![December month sales](https://github.com/user-attachments/assets/787e773a-42b7-4ffc-b8a6-62f4c816678c)
   
 
-- In this visual I have used Sync Slicer to slice all the pages of the data.
-- You can see the visual dashboard only sliced for from Jan-01-2012 to December-31-2013 It filtered only these 2 years of data.
+- In this visual I have used **Sync Slicer** to slice all the pages of the data.
+- You can see the visual dashboard only sliced for from **Jan-01-2012 to December-31-2013** It filtered only these 2 years of data.
 - In the report dashboard to present data effectively. In the second pic you can see the tables and visuals the calculations are different because 
   only 2 data years data is sliced. Refer the below Visuals figures.
 
