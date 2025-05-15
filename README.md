@@ -1,4 +1,10 @@
 # DataAnalysis-Effective-PBI-Dashboard
+
+Turning the raw data into deep effective Visual Insights of The **Global Superstore data** used an perfect visuals for the data according to the data needed. This PowerBI Visualization Dashboards includes various types of visuals like Stacked column charts, Key Influencers, Decomposition Tree, Tree maps, Pie Charts, Matrix Tables for better understanding of the data to be represented Visually efficient.
+
+
+## Description
+
 This repository contains a comprehensive PowerBI visualization dashboard showcasing key metrics, trends, and insights for [Global Superstore Data]. The dashboard is designed to provide actionable information through interactive visualizations, charts, and graphs and Influencers.
 
 # Global-Superstore Data Analysis(Interactive and Effective Dashboard Creation Using Microsoft PowerBI)
